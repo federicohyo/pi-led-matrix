@@ -45,6 +45,7 @@ The `WS2801-PI/lib/` directory contains presets that run in screensaver mode:
 | Sand Traveler | Sand particle physics |
 | Substrate | Crystal growth simulation |
 | Adaptation | Adaptive pattern generation |
+| Spiking Neural Network | Leaky integrate-and-fire neurons with excitatory/inhibitory populations, spike propagation, and membrane potential glow |
 
 ## Setup
 
